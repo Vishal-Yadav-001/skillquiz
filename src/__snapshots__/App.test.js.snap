@@ -1,0 +1,339 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> snapshot App 1`] = `
+<div
+  className="App"
+>
+  <div />
+  <div
+    className="MuiBox-root css-lkqzy"
+  >
+    <div
+      className="MuiBox-root css-i9gxme"
+    >
+      <header
+        className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-qv9cjy-MuiPaper-root-MuiAppBar-root"
+      >
+        <div
+          className="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+        >
+          <button
+            aria-label="menu"
+            className="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-edgeStart MuiIconButton-sizeLarge css-ancrnh-MuiButtonBase-root-MuiIconButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="MenuIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+              />
+            </svg>
+          </button>
+          <div
+            className="MuiTypography-root MuiTypography-h6 css-195gxv0-MuiTypography-root"
+          >
+            SkillScore
+          </div>
+          <div
+            className="MuiAvatar-root MuiAvatar-circular css-itb7qy-MuiAvatar-root"
+          >
+            <img
+              alt="User Name"
+              className="MuiAvatar-img css-1pqm26d-MuiAvatar-img"
+              src="young-man.png"
+            />
+          </div>
+          <p
+            className="MuiTypography-root MuiTypography-body1 css-2lae6c-MuiTypography-root"
+          >
+            xvxvxxv
+          </p>
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-10vccbw-MuiButtonBase-root-MuiButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            Logout
+          </button>
+        </div>
+      </header>
+    </div>
+    <div
+      className="MuiContainer-root MuiContainer-maxWidthLg css-cswa1n-MuiContainer-root"
+    >
+      <div
+        className="MuiBox-root css-19midj6"
+      >
+        <div
+          className="MuiBox-root css-0"
+        >
+          <div
+            className="MuiBox-root css-jmdsto"
+          >
+            <h4
+              className="MuiTypography-root MuiTypography-h4 css-1lw9fw4-MuiTypography-root"
+            >
+              Choose a topic
+            </h4>
+            <p
+              className="MuiTypography-root MuiTypography-body1 css-u030s2-MuiTypography-root"
+              varient="h6"
+            >
+              Test you knowledge on various topics
+            </p>
+          </div>
+          <div
+            className="MuiStack-root css-1fkxkcb-MuiStack-root"
+          >
+            <div
+              className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1i5fr42-MuiPaper-root-MuiCard-root"
+            >
+              <div
+                className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+              >
+                <div
+                  className="MuiBox-root css-xi606m"
+                >
+                  <img
+                    alt="HTML"
+                    height="75px"
+                    src="html-5.png"
+                    width="auto"
+                  />
+                  <p
+                    className="MuiTypography-root MuiTypography-body1 css-i0r1ze-MuiTypography-root"
+                  >
+                    HTML
+                  </p>
+                  <div />
+                  <button
+                    className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-dm1joi-MuiButtonBase-root-MuiButton-root"
+                    data-testid="takeQuizButton"
+                    disabled={false}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onContextMenu={[Function]}
+                    onDragLeave={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={0}
+                    type="button"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body css-6dq5cv-MuiTypography-root"
+                      onClick={[Function]}
+                    >
+                      Take a quiz
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1i5fr42-MuiPaper-root-MuiCard-root"
+            >
+              <div
+                className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+              >
+                <div
+                  className="MuiBox-root css-xi606m"
+                >
+                  <img
+                    alt="JavaScript"
+                    height="75px"
+                    src="js.png"
+                    width="auto"
+                  />
+                  <p
+                    className="MuiTypography-root MuiTypography-body1 css-i0r1ze-MuiTypography-root"
+                  >
+                    JavaScript
+                  </p>
+                  <div />
+                  <button
+                    className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-dm1joi-MuiButtonBase-root-MuiButton-root"
+                    data-testid="takeQuizButton"
+                    disabled={false}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onContextMenu={[Function]}
+                    onDragLeave={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={0}
+                    type="button"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body css-6dq5cv-MuiTypography-root"
+                      onClick={[Function]}
+                    >
+                      Take a quiz
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1i5fr42-MuiPaper-root-MuiCard-root"
+            >
+              <div
+                className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+              >
+                <div
+                  className="MuiBox-root css-xi606m"
+                >
+                  <img
+                    alt="Sql"
+                    height="75px"
+                    src="sql-server.png"
+                    width="auto"
+                  />
+                  <p
+                    className="MuiTypography-root MuiTypography-body1 css-i0r1ze-MuiTypography-root"
+                  >
+                    Sql
+                  </p>
+                  <div />
+                  <button
+                    className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-dm1joi-MuiButtonBase-root-MuiButton-root"
+                    data-testid="takeQuizButton"
+                    disabled={false}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onContextMenu={[Function]}
+                    onDragLeave={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={0}
+                    type="button"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body css-6dq5cv-MuiTypography-root"
+                      onClick={[Function]}
+                    >
+                      Take a quiz
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div
+              className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1i5fr42-MuiPaper-root-MuiCard-root"
+            >
+              <div
+                className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+              >
+                <div
+                  className="MuiBox-root css-xi606m"
+                >
+                  <img
+                    alt="DevOps"
+                    height="75px"
+                    src="devops.png"
+                    width="auto"
+                  />
+                  <p
+                    className="MuiTypography-root MuiTypography-body1 css-i0r1ze-MuiTypography-root"
+                  >
+                    DevOps
+                  </p>
+                  <div />
+                  <button
+                    className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-dm1joi-MuiButtonBase-root-MuiButton-root"
+                    data-testid="takeQuizButton"
+                    disabled={false}
+                    onBlur={[Function]}
+                    onClick={[Function]}
+                    onContextMenu={[Function]}
+                    onDragLeave={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    onMouseDown={[Function]}
+                    onMouseLeave={[Function]}
+                    onMouseUp={[Function]}
+                    onTouchEnd={[Function]}
+                    onTouchMove={[Function]}
+                    onTouchStart={[Function]}
+                    tabIndex={0}
+                    type="button"
+                  >
+                    <span
+                      className="MuiTypography-root MuiTypography-body css-6dq5cv-MuiTypography-root"
+                      onClick={[Function]}
+                    >
+                      Take a quiz
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="footer MuiBox-root css-rtkb4j"
+    >
+      <span>
+        Made in 2022 by Vishal Yadav
+      </span>
+    </div>
+  </div>
+</div>
+`;

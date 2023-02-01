@@ -1,0 +1,192 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Scores snapshot Score 1`] = `
+<div
+  className="MuiBox-root css-1s5vvty"
+>
+  <div
+    className="MuiStack-root css-1anbbb7-MuiStack-root"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1vcr12g-MuiPaper-root-MuiCard-root"
+    >
+      <div
+        className="MuiCardHeader-root css-185gdzj-MuiCardHeader-root"
+      >
+        <div
+          className="MuiCardHeader-content css-1qbkelo-MuiCardHeader-content"
+        >
+          <span
+            className="MuiTypography-root MuiTypography-h5 MuiCardHeader-title css-1qvr50w-MuiTypography-root"
+          >
+            Congratulation  undefined
+          </span>
+        </div>
+      </div>
+      <div
+        className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+      >
+        <div
+          className="MuiStack-root css-13f3otb-MuiStack-root"
+        >
+          <div
+            className="MuiBox-root css-t3kewg"
+          >
+            <span
+              aria-valuenow={NaN}
+              className="MuiCircularProgress-root MuiCircularProgress-determinate MuiCircularProgress-colorWarning css-xz9loa-MuiCircularProgress-root"
+              role="progressbar"
+              style={
+                Object {
+                  "height": "150px",
+                  "transform": "rotate(-90deg)",
+                  "width": "150px",
+                }
+              }
+            >
+              <svg
+                className="MuiCircularProgress-svg css-1idz92c-MuiCircularProgress-svg"
+                viewBox="22 22 44 44"
+              >
+                <circle
+                  className="MuiCircularProgress-circle MuiCircularProgress-circleDeterminate css-oxts8u-MuiCircularProgress-circle"
+                  cx={44}
+                  cy={44}
+                  fill="none"
+                  r={20.2}
+                  strokeWidth={3.6}
+                  style={
+                    Object {
+                      "strokeDasharray": "126.920",
+                      "strokeDashoffset": "NaNpx",
+                    }
+                  }
+                />
+              </svg>
+            </span>
+            <div
+              className="MuiBox-root css-1o8dslu"
+            >
+              <div
+                className="MuiTypography-root MuiTypography-h6 css-pa88fb-MuiTypography-root"
+              >
+                <span
+                  className="MuiTypography-root MuiTypography-span css-fgkswi-MuiTypography-root"
+                />
+                 / 
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiStack-root css-nen11g-MuiStack-root"
+        >
+          <h6
+            className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+          >
+            Topic for quiz : 
+             
+          </h6>
+          <p
+            className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            Level : 
+             
+          </p>
+          <p
+            className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+             
+            Time Spent : 
+             seconds
+             
+          </p>
+          <p
+            className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+             
+            Question attempted : 
+             
+          </p>
+        </div>
+      </div>
+      <div
+        className="MuiCardActions-root MuiCardActions-spacing css-1fjc5kp-MuiCardActions-root"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-wlmnnu-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-startIcon MuiButton-iconSizeMedium css-1d6wzja-MuiButton-startIcon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="ReplayIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"
+              />
+            </svg>
+          </span>
+          Retest
+        </button>
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-qam763-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          Home
+          <span
+            className="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="HomeIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"
+              />
+            </svg>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

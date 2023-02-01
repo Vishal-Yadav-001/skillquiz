@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` <Timer/> snapshot Timer 1`] = `
+<div
+  className="MuiBox-root css-rmz4vk"
+>
+  <span
+    aria-valuenow={83}
+    className="MuiCircularProgress-root MuiCircularProgress-determinate MuiCircularProgress-colorWarning css-169pd89-MuiCircularProgress-root"
+    role="progressbar"
+    style={
+      Object {
+        "height": "100px",
+        "transform": "rotate(-90deg)",
+        "width": "100px",
+      }
+    }
+  >
+    <svg
+      className="MuiCircularProgress-svg css-1idz92c-MuiCircularProgress-svg"
+      viewBox="22 22 44 44"
+    >
+      <circle
+        className="MuiCircularProgress-circle MuiCircularProgress-circleDeterminate css-oxts8u-MuiCircularProgress-circle"
+        cx={44}
+        cy={44}
+        fill="none"
+        r={20.2}
+        strokeWidth={3.6}
+        style={
+          Object {
+            "strokeDasharray": "126.920",
+            "strokeDashoffset": "21.153px",
+          }
+        }
+      />
+    </svg>
+  </span>
+  <div
+    className="MuiBox-root css-1o8dslu"
+  >
+    <div
+      className="MuiTypography-root MuiTypography-h6 css-12ebbip-MuiTypography-root"
+      data-testid="time_duration"
+    >
+      01
+       : 
+      40
+    </div>
+  </div>
+</div>
+`;

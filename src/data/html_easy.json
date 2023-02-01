@@ -1,0 +1,586 @@
+[
+  [
+    {
+      "id": 1,
+      "question": "Who is making the Web standards?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "The World Wide Web Consortium"
+        },
+        {
+          "id": 2,
+          "value": "Google"
+        },
+        {
+          "id": 3,
+          "value": "Mozilla"
+        },
+        {
+          "id": 4,
+          "value": "Microsoft"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {"id": 1,  "value":"The World Wide Web Consortium"},
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 2,
+      "question": "The HTML global attribute, 'contenteditable' is used to:",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "Specify whether the content of an element should be editable or not"
+        },
+        {
+          "id": 2,
+          "value": "Update content from the server"
+        },
+        {
+          "id": 3,
+          "value": "Specifies a context menu for an element. The menu appears when a user right-clicks on the element"
+        },
+        {
+          "id": 4,
+          "value": "Return the position of the first found occurrence of content inside a string"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 1,  "value":"Specify whether the content of an element should be editable or not"},
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 3,
+      "question": "What is the correct HTML for adding a background color?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "<body bg=\"yellow\">"
+        },
+        {
+          "id": 2,
+          "value": "<background>yellow</background>"
+        },
+        {
+          "id": 3,
+          "value": "<body style=\"background-color:yellow;\">"
+        },
+        {
+          "id": 4,
+          "value": "<body style bg=\"yellow\">"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 3,  "value": "<body style='background-color:yellow;'>"},
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 4,
+      "question": "In HTML document the tags",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "Should be written in upper case"
+        },
+        {
+          "id": 2,
+          "value": "can be written in both uppercase or lowercase"
+        },
+        {
+          "id": 3,
+          "value": "should be written in propercase"
+        },
+        {
+          "id": 4,
+          "value": "should be written in lower case"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": "{  "id": 1,  "value": \"Should be written in upper case\"}",
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 5,
+      "question": "Which doctype is correct for HTML5?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "<!DOCTYPE HTML5>"
+        },
+        {
+          "id": 2,
+          "value": "<!DOCTYPE HTML PUBLIC>"
+        },
+        {
+          "id": 3,
+          "value": "<!DOCTYPE html>"
+        },
+        {
+          "id": 4,
+          "value": "<HTML5>"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 3,  "value": "<!DOCTYPE html>"},
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 6,
+      "question": "What does HTML stand for?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "Hyper Text Markup Language"
+        },
+        {
+          "id": 2,
+          "value": "Hyperlinks and Text Markup Language"
+        },
+        {
+          "id": 3,
+          "value": "Home Tool Markup Language"
+        },
+        {
+          "id": 4,
+          "value": null
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 1,  "value": "Hyper Text Markup Language"},
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 7,
+      "question": "There are ____ different heading tags in HTML",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "4"
+        },
+        {
+          "id": 2,
+          "value": "7"
+        },
+        {
+          "id": 3,
+          "value": "6"
+        },
+        {
+          "id": 4,
+          "value": "5"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 1,  "value":"4"},
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 8,
+      "question": "What is the correct HTML element for inserting a line break?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "<break>"
+        },
+        {
+          "id": 2,
+          "value": "<br>"
+        },
+        {
+          "id": 3,
+          "value": "<lb>"
+        },
+        {
+          "id": 4,
+          "value": "<bl>"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": "{  "id": 2,  "value": \"<br>\"}",
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following attribute is used to group elements?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "item"
+        },
+        {
+          "id": 2,
+          "value": "itemgroup"
+        },
+        {
+          "id": 3,
+          "value": "itemcheck"
+        },
+        {
+          "id": 4,
+          "value": "itemprop"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": "{  "id": 1,  "value": \"item\"}",
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10,
+      "question": "What is the correct HTML for creating a hyperlink?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "<a url=\"http://www.w3schools.com\">W3Schools.com</a>"
+        },
+        {
+          "id": 2,
+          "value": "<a name=\"http://www.w3schools.com\">W3Schools.com</a>"
+        },
+        {
+          "id": 3,
+          "value": "<a>http://www.w3schools.com</a>"
+        },
+        {
+          "id": 4,
+          "value": "<a href=\"http://www.w3schools.com\">W3Schools</a>"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": "{  "id": 4,  "value": \"<a href=\\\"http://www.w3schools.com\\\">W3Schools</a>\"}",
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Easy"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "question": "Which of the following is an attribute related to font tag?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "size"
+        },
+        {
+          "id": 2,
+          "value": "All the options are style tags"
+        },
+        {
+          "id": 3,
+          "value": "color"
+        },
+        {
+          "id": 4,
+          "value": "face"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 1,  "value": "size"},
+      "explanation": null,
+      "tip": null,
+      "category": "Code",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following attribute triggers event after the document is printed?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "offlineprint"
+        },
+        {
+          "id": 2,
+          "value": "onbeforeprint"
+        },
+        {
+          "id": 3,
+          "value": "onafterprint"
+        },
+        {
+          "id": 4,
+          "value": "onprint"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 1,  "value": "offlineprint"},
+      "explanation": null,
+      "tip": null,
+      "category": "Code",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 3,
+      "question": "Tags and text that are not directly displayed on the page are written in _____ section.",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "<html>"
+        },
+        {
+          "id": 2,
+          "value": "<body>"
+        },
+        {
+          "id": 3,
+          "value": "<title>"
+        },
+        {
+          "id": 4,
+          "value": "<head>"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 1,  "value": "<html>"},
+      "explanation": null,
+      "tip": null,
+      "category": "Code",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4,
+      "question": "Which html attribute is used to provide an advisory text about an element or Its contents.",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "Dir"
+        },
+        {
+          "id": 2,
+          "value": "Title"
+        },
+        {
+          "id": 3,
+          "value": "Tooltip"
+        },
+        {
+          "id": 4,
+          "value": "None of the above"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer":{  "id": 1,  "value": "Dir"},
+      "explanation": null,
+      "tip": null,
+      "category": "Code",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 5,
+      "question": "The HTML <canvas> element is used to:",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "draw graphics"
+        },
+        {
+          "id": 2,
+          "value": "display database records"
+        },
+        {
+          "id": 3,
+          "value": "create draggable elements"
+        },
+        {
+          "id": 4,
+          "value": "manipulate data in MySQL"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 1,  "value": "draw graphics"},
+      "explanation": null,
+      "tip": null,
+      "category": "",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6,
+      "question": "To create a combo box (drop down box) which tag will you use?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "<select>"
+        },
+        {
+          "id": 2,
+          "value": "<list>"
+        },
+        {
+          "id": 3,
+          "value": "<input type='dropdown'>"
+        },
+        {
+          "id": 4,
+          "value": "all of above"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {  "id": 1,  "value":"<select>"},
+      "explanation": null,
+      "tip": null,
+      "category": "Code",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following attribute triggers event when the length of the media is changed?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "ondrop"
+        },
+        {
+          "id": 2,
+          "value": "onended"
+        },
+        {
+          "id": 3,
+          "value": "onemptied"
+        },
+        {
+          "id": 4,
+          "value": "ondurationchange"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {"id": 1,"value": "ondrop"},
+      "explanation": null,
+      "tip": null,
+      "category": "Code",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8,
+      "question": "In HTML, onblur and onfocus are:",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "Style attributes"
+        },
+        {
+          "id": 2,
+          "value": "HTML elements"
+        },
+        {
+          "id": 3,
+          "value": "Event attributes"
+        },
+        {
+          "id": 4,
+          "value": "Text styles"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {"id": 3,  "value": "Event attributes"},
+      "explanation": null,
+      "tip": null,
+      "category": "Html",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9,
+      "question": "What tag is used to display a picture in a HTML page?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "Picture"
+        },
+        {
+          "id": 2,
+          "value": "Image"
+        },
+        {
+          "id": 3,
+          "value": "Src"
+        },
+        {
+          "id": 4,
+          "value": "Img"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {"id": 1,"value":"Picture"},
+      "explanation": null,
+      "tip": null,
+      "category": "Code",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 10,
+      "question": "How can we define a Video Tag in HTML 5?",
+      "description": null,
+      "answers": [
+        {
+          "id": 1,
+          "value": "<video src \"URL\"></video>"
+        },
+        {
+          "id": 2,
+          "value": "<video src=\"URL\"></video>"
+        },
+        {
+          "id": 3,
+          "value": "<video></video>"
+        },
+        {
+          "id": 4,
+          "value": "<video src:\"URL\"></video>"
+        }
+      ],
+      "multiple_correct_answers": "false",
+      "correct_answer": {"id": 1,"value": "<video src \"URL\"></video>"},
+      "explanation": null,
+      "tip": null,
+      "category": "Code",
+      "difficulty": "Medium"
+    }
+  ]
+]
